@@ -89,7 +89,7 @@ namespace WindowsFormsApp1
         private void eJERCICIO1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //1
-            v1.ejercicio1(int.Parse(textBox3.Text));
+            v1.ejercicio1(int.Parse(textBox2.Text));
         }
 
         private void eJERCICIO2ToolStripMenuItem_Click(object sender, EventArgs e)
